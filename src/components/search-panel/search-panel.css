@@ -6,3 +6,7 @@
     box-shadow: 15px 15px 30px #636363;
     color:azure;
 }
+
+.search-panel input::placeholder {
+    font-size: 20px;
+}
